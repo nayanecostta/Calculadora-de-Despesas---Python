@@ -1,0 +1,1 @@
+Projeto para a disciplina Projeto Interdisciplinar, no qual consiste a criação de uma calculadora de despesas em Python utilizando o PyCharm Community e o Xampp para a criação e execução do banco de dados 
